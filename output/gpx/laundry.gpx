@@ -1,0 +1,4411 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="randonneur.nz" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+  <metadata>
+    <link href="https://randonneur.nz">
+      <text>randonneur.nz</text>
+    </link>
+    <time>2020-02-02T21:49:16Z</time>
+    <bounds maxlat="-35.22676" maxlon="178.00417" minlat="-46.56069" minlon="-176.55973" />
+  </metadata>
+    <wpt lat="-37.403147" lon="175.144926">
+        <time>2015-05-21T05:53:33Z</time>
+        <name>Te Kauwhata Auto Services</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Sun</cmt>
+        <desc>Mon-Sun</desc>
+        <link href="http://www.mobil.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>GasStation</gpxx:Category>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+                  <gpxx:Category>ConvenienceStore</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>35 Main Street, Te Kauwhata, Waikato</gpxx:StreetAddress>
+            <gpxx:City>Te Kauwhata</gpxx:City>
+            <gpxx:State>Waikato</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber></gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>GasStation</wptx1:Category>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+                      <wptx1:Category>ConvenienceStore</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>35 Main Street, Te Kauwhata, Waikato</wptx1:StreetAddress>
+            <wptx1:City>Te Kauwhata</wptx1:City>
+            <wptx1:State>Waikato</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber></wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.845108" lon="174.766702">
+        <time>2015-03-19T00:44:09Z</time>
+        <name>Susan &amp; Tony</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>LocalBusiness</gpxx:Category>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>First Floor, Shop 113, Queens Arcade, 34-40 Queen St, Auckland Central</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 373 2100</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>LocalBusiness</wptx1:Category>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>First Floor, Shop 113, Queens Arcade, 34-40 Queen St, Auckland Central</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 373 2100</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.855218" lon="174.746057">
+        <time>2010-05-26T13:45:24Z</time>
+        <name>Premier Master Drycleaners Ponsonby</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>164 Ponsonby Rd, Ponsonby, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 361 2122</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>164 Ponsonby Rd, Ponsonby, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 361 2122</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.810706" lon="174.725575">
+        <time>2013-04-12T15:03:01Z</time>
+        <name>Brightstar Laundry</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>40 Birkenhead Ave, Birkenhead</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>(09) 480 9091</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>40 Birkenhead Ave, Birkenhead</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>(09) 480 9091</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.858928" lon="174.78264">
+        <time>2013-04-12T15:03:12Z</time>
+        <name>Parnell Laundry</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>409 Parnell Road, Parnell, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>(09) 373 2680</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>409 Parnell Road, Parnell, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>(09) 373 2680</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.880898" lon="174.798035">
+        <time>2015-02-04T03:41:10Z</time>
+        <name>Maxwells Drycleaning Remuera</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.maxwellsdrycleaning.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>375 Remuera Rd, Remuera, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 529 0241</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>375 Remuera Rd, Remuera, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 529 0241</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.927663" lon="174.900839">
+        <time>2013-04-12T14:53:53Z</time>
+        <name>Blue-N-Green Drycleaners</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.drycleaners.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>333 Ti Rakau Drive, Pakuranga</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 273 5253</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>333 Ti Rakau Drive, Pakuranga</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 273 5253</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.872654" lon="174.777254">
+        <time>2014-09-22T02:31:01Z</time>
+        <name>Regal Drycleaners Newmarket</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Fri 7am-6.30pm, Sat 8.30am-5pm, Sun 11am-3pm</cmt>
+        <desc>Mon-Fri 7am-6.30pm, Sat 8.30am-5pm, Sun 11am-3pm</desc>
+        <link href="http://www.regaldrycleaners.co.nz/" />
+        <link href="https://www.facebook.com/regaldrycleanersNZ" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Unit D, 402 Broadway, Newmarket, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 520 6040</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Unit D, 402 Broadway, Newmarket, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 520 6040</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.846253" lon="174.741998">
+        <time>2017-12-18T15:50:03Z</time>
+        <name>Herne Bay Drycleaners</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Monday to Friday : 7:30 am to 5:30 pm Saturdays : 8:30 am to 3:30 pm Sundays : closed</cmt>
+        <desc>Monday to Friday : 7:30 am to 5:30 pm Saturdays : 8:30 am to 3:30 pm Sundays : closed</desc>
+        <link href="https://www.hbdc.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>62 Jervois Road Herne Bay, Auckland, 1011</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 376 3297</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>62 Jervois Road Herne Bay, Auckland, 1011</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 376 3297</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-39.591556" lon="174.282637">
+        <time>2013-12-20T21:02:13Z</time>
+        <name>La Nuova Drycleaners</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>7:30 - 5:30</cmt>
+        <desc>7:30 - 5:30</desc>
+        <link href="http://www.lanuova.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>41 Princes Street, Hawera, Taranaki</gpxx:StreetAddress>
+            <gpxx:City>Hawera</gpxx:City>
+            <gpxx:State>Taranaki</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>06 278 0500</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>41 Princes Street, Hawera, Taranaki</wptx1:StreetAddress>
+            <wptx1:City>Hawera</wptx1:City>
+            <wptx1:State>Taranaki</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>06 278 0500</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.865754" lon="174.75517">
+        <time>2011-12-15T16:22:12Z</time>
+        <name>OCS - Auckland</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.ocs.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Level 4, 26 Virginia Avenue, Eden Terrace, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800 33 23 33</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Level 4, 26 Virginia Avenue, Eden Terrace, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800 33 23 33</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.03488" lon="174.899724">
+        <time>2007-11-16T02:33:00Z</time>
+        <name>Sudserella Laundry Ltd</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>58 Mahia Road, Manurewa</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>+64-9 266 1376</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>58 Mahia Road, Manurewa</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>+64-9 266 1376</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.728941" lon="174.709192">
+        <time>2015-02-17T07:11:35Z</time>
+        <name>Star Drycleaning</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Store 284, Level 2, Westfield Albany, 219 Don McKinnon Drive, Albany, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 925 9595</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Store 284, Level 2, Westfield Albany, 219 Don McKinnon Drive, Albany, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 925 9595</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.993496" lon="174.886993">
+        <time>2013-04-12T15:11:12Z</time>
+        <name>Rayland Motel</name>          
+        <type>user</type>
+        <sym>Lodge</sym>
+        <link href="http://rayland.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>Motel</gpxx:Category>
+                  <gpxx:Category>Restaurant</gpxx:Category>
+                  <gpxx:Category>LodgingBusiness</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>12 Lakewood Court, Manukau, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>[09] 263 8738</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>Motel</wptx1:Category>
+                      <wptx1:Category>Restaurant</wptx1:Category>
+                      <wptx1:Category>LodgingBusiness</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>12 Lakewood Court, Manukau, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>[09] 263 8738</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.200177" lon="174.903666">
+        <time>2008-07-15T11:00:14Z</time>
+        <name>Pukekohe Drycleaners &amp; Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>56 Edinburgh Street, Pukekohe</gpxx:StreetAddress>
+            <gpxx:City>Pukekohe</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>(09) 238 7694</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>56 Edinburgh Street, Pukekohe</wptx1:StreetAddress>
+            <wptx1:City>Pukekohe</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>(09) 238 7694</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.200561" lon="174.902701">
+        <time>2013-04-12T14:53:53Z</time>
+        <name>Findlays Dry Cleaners</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>65 King Street, Pukekohe</gpxx:StreetAddress>
+            <gpxx:City>Pukekohe</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>(09) 238 7685</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>65 King Street, Pukekohe</wptx1:StreetAddress>
+            <wptx1:City>Pukekohe</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>(09) 238 7685</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-45.257473" lon="169.392563">
+        <time>2008-08-31T17:16:18Z</time>
+        <name>Central Laundrette</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>5 Limerick St, Alexandra</gpxx:StreetAddress>
+            <gpxx:City>Alexandra</gpxx:City>
+            <gpxx:State>Otago</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>(03) 448 6110</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>5 Limerick St, Alexandra</wptx1:StreetAddress>
+            <wptx1:City>Alexandra</wptx1:City>
+            <wptx1:State>Otago</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>(03) 448 6110</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-43.505632" lon="172.664306">
+        <time>2015-03-16T11:13:36Z</time>
+        <name>Lotto &amp; Wild Thingz</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>Store</gpxx:Category>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 82, The Palms Shopping Centre, Corner New Brighton &amp; Marshland Roads, Shirley, Christchurch</gpxx:StreetAddress>
+            <gpxx:City>Christchurch</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>03 385 4633</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>Store</wptx1:Category>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 82, The Palms Shopping Centre, Corner New Brighton &amp; Marshland Roads, Shirley, Christchurch</wptx1:StreetAddress>
+            <wptx1:City>Christchurch</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>03 385 4633</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.854063" lon="174.745896">
+        <time>2015-03-02T08:57:00Z</time>
+        <name>TLC Drycleaners Ponsonby</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Fri 7am-6pm, Sat 9am-2pm</cmt>
+        <desc>Mon-Fri 7am-6pm, Sat 9am-2pm</desc>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>171 Ponsonby Road, Ponsonby, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber></gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>171 Ponsonby Road, Ponsonby, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber></wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-43.595346" lon="172.385673">
+        <time>2015-04-08T09:04:06Z</time>
+        <name>Rolleston Drycleaners &amp; Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Fri 8am-5.30pm, Sat 9am-1pm</cmt>
+        <desc>Mon-Fri 8am-5.30pm, Sat 9am-1pm</desc>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>LocalBusiness</gpxx:Category>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 16, Rolleston Square, Rolleston</gpxx:StreetAddress>
+            <gpxx:City>Rolleston</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>03 347 7601</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>LocalBusiness</wptx1:Category>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 16, Rolleston Square, Rolleston</wptx1:StreetAddress>
+            <wptx1:City>Rolleston</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>03 347 7601</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.880104" lon="174.775901">
+        <time>2013-04-12T15:07:12Z</time>
+        <name>Sunrise to Sunset Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>9 am to 7 pm</cmt>
+        <desc>9 am to 7 pm</desc>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>151 Manukau Road, Epsom, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 623 3062</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>151 Manukau Road, Epsom, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 623 3062</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-43.535039" lon="172.693024">
+        <time>2013-04-12T15:00:43Z</time>
+        <name>Quality Laundry Services</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>12 Lupins Lane, Bromley, Christchurch</gpxx:StreetAddress>
+            <gpxx:City>Christchurch</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>Phone/Fax: 03 381 4099.</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>12 Lupins Lane, Bromley, Christchurch</wptx1:StreetAddress>
+            <wptx1:City>Christchurch</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>Phone/Fax: 03 381 4099.</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-39.929093" lon="175.045988">
+        <time>2013-12-20T21:00:34Z</time>
+        <name>Spooners Drycleaners</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>7:30 - 5:30</cmt>
+        <desc>7:30 - 5:30</desc>
+        <link href="http://www.dry-cleaners.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>250 Victoria Ave, Wanganui</gpxx:StreetAddress>
+            <gpxx:City>Wanganui</gpxx:City>
+            <gpxx:State>Manawatu-Wanganui</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>06 345 6186</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>250 Victoria Ave, Wanganui</wptx1:StreetAddress>
+            <wptx1:City>Wanganui</wptx1:City>
+            <wptx1:State>Manawatu-Wanganui</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>06 345 6186</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.843636" lon="174.765835">
+        <time>2015-02-05T02:47:19Z</time>
+        <name>Maxwell's Drycleaning Downtown</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.maxwellsdrycleaning.co.nz/" />
+        <link href="https://www.facebook.com/maxwellsdrycleaningchch" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Downtown Shopping Centre, Ground Level, 11-19 Customs Street West, Auckland Central</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 978 5105</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Downtown Shopping Centre, Ground Level, 11-19 Customs Street West, Auckland Central</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 978 5105</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.858669" lon="174.755182">
+        <time>2014-08-29T01:51:38Z</time>
+        <name>Travellers Laundry</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>456 Karangahape Rd, Newton, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 376 6062</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>456 Karangahape Rd, Newton, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 376 6062</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.883362" lon="174.733526">
+        <time>2015-03-02T08:56:26Z</time>
+        <name>TLC Drycleaners Westfield St Lukes</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Level 1, Store 519, Westfield St Lukes, 80 St Lukes Road, Mount Albert, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 846 7275</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Level 1, Store 519, Westfield St Lukes, 80 St Lukes Road, Mount Albert, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 846 7275</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-43.517419" lon="172.655881">
+        <time>2013-11-22T04:38:12Z</time>
+        <name>Richmond Dry Cleaners</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>71 N Avon Rd, Christchurch, Canterbury 8013, New Zealand</gpxx:StreetAddress>
+            <gpxx:City>Christchurch</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>(03) 389 5875</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>71 N Avon Rd, Christchurch, Canterbury 8013, New Zealand</wptx1:StreetAddress>
+            <wptx1:City>Christchurch</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>(03) 389 5875</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.750523" lon="175.278902">
+        <time>2015-02-18T12:14:58Z</time>
+        <name>Sincerity Drycleaning</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Tue-Wed-Fri 7.30am-6pm, Thu 7.30am-7pm, Sat 9am-2pm, Sun 1pm-5pm</cmt>
+        <desc>Mon-Tue-Wed-Fri 7.30am-6pm, Thu 7.30am-7pm, Sat 9am-2pm, Sun 1pm-5pm</desc>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Level 1, S148, Westfield Chartwell, Corner Hukanui &amp; Comries Roads, Chartwell, Hamilton</gpxx:StreetAddress>
+            <gpxx:City>Hamilton</gpxx:City>
+            <gpxx:State>Waikato</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 960 7356</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Level 1, S148, Westfield Chartwell, Corner Hukanui &amp; Comries Roads, Chartwell, Hamilton</wptx1:StreetAddress>
+            <wptx1:City>Hamilton</wptx1:City>
+            <wptx1:State>Waikato</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 960 7356</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.759868" lon="175.497652">
+        <time>2013-04-12T15:03:03Z</time>
+        <name>Coromandel Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>40 Kapanga Rd, Coromandel</gpxx:StreetAddress>
+            <gpxx:City>Coromandel</gpxx:City>
+            <gpxx:State>Waikato</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 866 7636</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>40 Kapanga Rd, Coromandel</wptx1:StreetAddress>
+            <wptx1:City>Coromandel</wptx1:City>
+            <wptx1:State>Waikato</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 866 7636</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.24265" lon="175.46199">
+        <time>2010-01-19T22:20:58Z</time>
+        <name>Claris Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>125 Hector Sanderson Road, Claris, Great Barrier Island</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber></gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>125 Hector Sanderson Road, Claris, Great Barrier Island</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber></wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.860824" lon="174.829323">
+        <time>2015-04-08T22:47:42Z</time>
+        <name>Regal Drycleaners Eastridge</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Fri 7.30am-6.30pm, Sat 9am-6.30pm, Sun 9am-4.30pm, Public Holidays 9am-4.30pm (Anzac Day 1pm-4.30pm)</cmt>
+        <desc>Mon-Fri 7.30am-6.30pm, Sat 9am-6.30pm, Sun 9am-4.30pm, Public Holidays 9am-4.30pm (Anzac Day 1pm-4.30pm)</desc>
+        <link href="http://www.regaldrycleaners.co.nz/" />
+        <link href="https://www.facebook.com/regaldrycleanersNZ" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Eastridge Shopping Centre, 215 Kepa Road, Kohimarama, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 521 6066</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Eastridge Shopping Centre, 215 Kepa Road, Kohimarama, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 521 6066</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.871527" lon="174.752612">
+        <time>2013-04-12T15:08:39Z</time>
+        <name>Splish Splash Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>7 days 8am-6pm</cmt>
+        <desc>7 days 8am-6pm</desc>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>92 Dominion Rd, Mt Eden, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 630 9204</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>92 Dominion Rd, Mt Eden, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 630 9204</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-41.129707" lon="175.045993">
+        <time>2010-04-18T22:08:50Z</time>
+        <name>Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>579 Fergusson Drive, Upper Hutt</gpxx:StreetAddress>
+            <gpxx:City>Upper Hutt</gpxx:City>
+            <gpxx:State>Wellington</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber></gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>579 Fergusson Drive, Upper Hutt</wptx1:StreetAddress>
+            <wptx1:City>Upper Hutt</wptx1:City>
+            <wptx1:State>Wellington</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber></wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.898005" lon="174.80992">
+        <time>2018-11-12T08:03:30Z</time>
+        <name>Ellerslie Dry Cleaners</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon to Thu 7.30am to 5.30pm Fri 7.30am to 6pm Sat 9am to 1pm</cmt>
+        <desc>Mon to Thu 7.30am to 5.30pm Fri 7.30am to 6pm Sat 9am to 1pm</desc>
+        <link href="https://www.ellersliedrycleaners.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>128C Main Highway, Ellerslie, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 579 8828</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>128C Main Highway, Ellerslie, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 579 8828</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-35.114116" lon="173.263621">
+        <time>2011-02-01T12:41:42Z</time>
+        <name>Far North Apparelmaster</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>110 Commerce St</gpxx:StreetAddress>
+            <gpxx:City>Kaitaia</gpxx:City>
+            <gpxx:State>Northland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber></gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>110 Commerce St</wptx1:StreetAddress>
+            <wptx1:City>Kaitaia</wptx1:City>
+            <wptx1:State>Northland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber></wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.89968" lon="174.854917">
+        <time>2011-04-19T12:50:23Z</time>
+        <name>Plaza Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>100 Queens Road, Panmure, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber></gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>100 Queens Road, Panmure, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber></wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2011-08-06T16:59:45Z</time>
+        <name>KleenAir Services</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>24-7</cmt>
+        <desc>24-7</desc>
+        <link href="http://www.kleenair.co.nz" />
+        <link href="http://www.facebook.com/pages/KleenAir-Services/200019743390238" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>HVACBusiness</gpxx:Category>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>South Island, New Zealand</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>021 344 892</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>HVACBusiness</wptx1:Category>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>South Island, New Zealand</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>021 344 892</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.771794" lon="174.766538">
+        <time>2015-03-18T11:02:47Z</time>
+        <name>Maxwell's Drycleaning Milford</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.maxwellsdrycleaning.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Milford Centre, 24 Milford Road, Milford, North Shore, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 489 9750</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Milford Centre, 24 Milford Road, Milford, North Shore, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 489 9750</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.865661" lon="174.755104">
+        <time>2011-12-22T15:04:29Z</time>
+        <name>Cannon Consumables - Auckland</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.cannonconsumables.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>26 Virginia Ave East, Auckland, New Zealand</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800 123 223</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>26 Virginia Ave East, Auckland, New Zealand</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800 123 223</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.883178" lon="174.761543">
+        <time>2013-04-12T15:03:21Z</time>
+        <name>Wash Inn Laundrette</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>7 days a week</cmt>
+        <desc>7 days a week</desc>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>453b Mt Eden Rd, Mt Eden, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>(03) 638 6626</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>453b Mt Eden Rd, Mt Eden, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>(03) 638 6626</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-43.550566" lon="172.595457">
+        <time>2016-03-30T03:00:29Z</time>
+        <name>Canterbury Linen Services</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="https://www.canterburylinen.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>21 Sylvan Street, Middleton, Christchurch 8024</gpxx:StreetAddress>
+            <gpxx:City>Christchurch</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>03 338 2039</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>21 Sylvan Street, Middleton, Christchurch 8024</wptx1:StreetAddress>
+            <wptx1:City>Christchurch</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>03 338 2039</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.913062" lon="174.680631">
+        <time>2013-04-12T15:00:52Z</time>
+        <name>Super Wash Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Open 7 Days. Monday to Friday: 8AM to 7PM. Saturday to Sunday: 7:30AM to 7PM</cmt>
+        <desc>Open 7 Days. Monday to Friday: 8AM to 7PM. Saturday to Sunday: 7:30AM to 7PM</desc>
+        <link href="http://www.superwashlaundromat.co.nz" />
+        <link href="http://www.facebook.com/SuperWashNZ" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>10C Margan Avenue, New Lynn, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09-826 0267</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>10C Margan Avenue, New Lynn, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09-826 0267</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2012-09-09T00:27:29Z</time>
+        <name>Cleaning Co Heat Pump Cleaning</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>8am to 6pm or by appointment</cmt>
+        <desc>8am to 6pm or by appointment</desc>
+        <link href="http://www.cleaningco.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>HVACBusiness</gpxx:Category>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+                  <gpxx:Category>AutomotiveBusiness</gpxx:Category>
+                  <gpxx:Category>PetStore</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Dunedin and surrounding area</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800 22 21 88</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>HVACBusiness</wptx1:Category>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+                      <wptx1:Category>AutomotiveBusiness</wptx1:Category>
+                      <wptx1:Category>PetStore</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Dunedin and surrounding area</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800 22 21 88</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-39.631009" lon="176.831423">
+        <time>2013-01-25T14:30:29Z</time>
+        <name>Easy Key Self Service Laundromats</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.diamonddrycleaners.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>1112 Heretaunga St West, Stortford Lodge, Hastings</gpxx:StreetAddress>
+            <gpxx:City>Hastings</gpxx:City>
+            <gpxx:State>Hawke's Bay</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber></gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>1112 Heretaunga St West, Stortford Lodge, Hastings</wptx1:StreetAddress>
+            <wptx1:City>Hastings</wptx1:City>
+            <wptx1:State>Hawke's Bay</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber></wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.850588" lon="174.760305">
+        <time>2013-01-29T08:51:39Z</time>
+        <name>Bubbles Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>7 days 6am to Midnight</cmt>
+        <desc>7 days 6am to Midnight</desc>
+        <link href="http://www.bubbleslaundromat.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>137 Hobson Street, Auckland Central</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>021 337 622</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>137 Hobson Street, Auckland Central</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>021 337 622</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.84846" lon="174.763332">
+        <time>2013-04-06T23:02:51Z</time>
+        <name>Carpet Cleaning Central Auckland</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.carpetcleaningauckland-twt.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800 779 988</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800 779 988</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2013-04-05T20:00:55Z</time>
+        <name>Jean Johnston</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.carpet-cleaners-auckland.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>auckland</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>099730711</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>auckland</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>099730711</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-38.65676" lon="177.995942">
+        <time>2013-04-19T01:36:13Z</time>
+        <name>Easy Key Self Service Laundromat Elgin</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.diamonddrycleaners.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>230 Lytton Road, Elgin, Gisborne</gpxx:StreetAddress>
+            <gpxx:City>Gisborne</gpxx:City>
+            <gpxx:State>Gisborne</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber></gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>230 Lytton Road, Elgin, Gisborne</wptx1:StreetAddress>
+            <wptx1:City>Gisborne</wptx1:City>
+            <wptx1:State>Gisborne</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber></wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-38.675451" lon="178.045308">
+        <time>2013-04-19T01:37:39Z</time>
+        <name>Easy Key Self Service Laundromat Kaiti</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.diamonddrycleaners.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Kaiti Mall, Wainui Road, Kaiti</gpxx:StreetAddress>
+            <gpxx:City>Gisborne</gpxx:City>
+            <gpxx:State>Gisborne</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber></gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Kaiti Mall, Wainui Road, Kaiti</wptx1:StreetAddress>
+            <wptx1:City>Gisborne</wptx1:City>
+            <wptx1:State>Gisborne</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber></wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.753278" lon="174.697359">
+        <time>2013-06-10T14:43:00Z</time>
+        <name>GroutPro Rodney &amp; North Shore</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.TileandGroutProfessionals.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Phillips Cottage 253 Dairyflat Highway Albany, Auckland 0632</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0223-676-632</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Phillips Cottage 253 Dairyflat Highway Albany, Auckland 0632</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0223-676-632</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.824526" lon="174.799427">
+        <time>2013-07-27T03:12:36Z</time>
+        <name>Star Drycleaning and Devonport Alterations</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>mon-fri 8.30-5.30pm sat8.30-1.30 sun closed</cmt>
+        <desc>mon-fri 8.30-5.30pm sat8.30-1.30 sun closed</desc>
+        <link href="http://www.devonportalterations.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 4, The Arcade, 13 Victoria Road, Devonport, auckland 0624</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>+64 9 445 1771</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 4, The Arcade, 13 Victoria Road, Devonport, auckland 0624</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>+64 9 445 1771</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-45.894787" lon="170.498834">
+        <time>2013-09-29T05:14:15Z</time>
+        <name>brocklebank drycleaners dunedin</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>mon,tues,wed, 7:45am-5:30pm, thurs, 7:45am-6:00pm, fri, 7:45am-5:00pm, sat, 9:00am-11:00am</cmt>
+        <desc>mon,tues,wed, 7:45am-5:30pm, thurs, 7:45am-6:00pm, fri, 7:45am-5:00pm, sat, 9:00am-11:00am</desc>
+        <link href="http://www.brocklebanksdrycleaners.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>191 King Edward Street, South Dunedin, Dunedin</gpxx:StreetAddress>
+            <gpxx:City>Dunedin</gpxx:City>
+            <gpxx:State>Otago</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>03-455 4065</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>191 King Edward Street, South Dunedin, Dunedin</wptx1:StreetAddress>
+            <wptx1:City>Dunedin</wptx1:City>
+            <wptx1:State>Otago</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>03-455 4065</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.031347" lon="174.920424">
+        <time>2013-11-14T21:40:00Z</time>
+        <name>Pryors Apparelmaster</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.pryorsapparelmaster.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>98 Takanini School Road</gpxx:StreetAddress>
+            <gpxx:City>Takanini</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 2697061</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>98 Takanini School Road</wptx1:StreetAddress>
+            <wptx1:City>Takanini</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 2697061</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-39.057502" lon="174.084048">
+        <time>2015-10-24T03:53:24Z</time>
+        <name>La Nuova Drycleaners</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>7:30 - 5:30</cmt>
+        <desc>7:30 - 5:30</desc>
+        <link href="http://www.lanuova.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>65 Eliot Street, New Plymouth</gpxx:StreetAddress>
+            <gpxx:City>New Plymouth</gpxx:City>
+            <gpxx:State>Taranaki</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>06 759 1040</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>65 Eliot Street, New Plymouth</wptx1:StreetAddress>
+            <wptx1:City>New Plymouth</wptx1:City>
+            <wptx1:State>Taranaki</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>06 759 1040</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.922095" lon="174.639398">
+        <time>2014-06-26T22:34:50Z</time>
+        <name>QED Total Clean</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>9-5:30</cmt>
+        <desc>9-5:30</desc>
+        <link href="http://www.qedtotalclean.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>6 shetland street auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>080 073 3868</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>6 shetland street auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>080 073 3868</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-41.205288" lon="174.911564">
+        <time>2015-11-14T19:33:36Z</time>
+        <name>Liquid Self Service Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>5am - 11pm 7 days</cmt>
+        <desc>5am - 11pm 7 days</desc>
+        <link href="http://liquidlaundromats.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>466 High Street, Lower Huttt</gpxx:StreetAddress>
+            <gpxx:City>Lower Hutt</gpxx:City>
+            <gpxx:State>Wellington</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>04 569 5792</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>466 High Street, Lower Huttt</wptx1:StreetAddress>
+            <wptx1:City>Lower Hutt</wptx1:City>
+            <wptx1:State>Wellington</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>04 569 5792</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-41.281008" lon="174.775643">
+        <time>2014-08-15T00:11:29Z</time>
+        <name>Fifty Five Minute Drycleaners and Pressers</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>146 Lambton Quay, Wellington</gpxx:StreetAddress>
+            <gpxx:City>Wellington</gpxx:City>
+            <gpxx:State>Wellington</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>04 499 9863</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>146 Lambton Quay, Wellington</wptx1:StreetAddress>
+            <wptx1:City>Wellington</wptx1:City>
+            <wptx1:State>Wellington</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>04 499 9863</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-42.396066" lon="173.679038">
+        <time>2014-09-23T23:22:03Z</time>
+        <name>Little Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>39 Beach Road, Kaikoura</gpxx:StreetAddress>
+            <gpxx:City>Kaikoura</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber></gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>39 Beach Road, Kaikoura</wptx1:StreetAddress>
+            <wptx1:City>Kaikoura</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber></wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.912189" lon="174.841154">
+        <time>2014-10-04T11:21:15Z</time>
+        <name>Spongehero Ltd</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>8.30am - 4.30pm</cmt>
+        <desc>8.30am - 4.30pm</desc>
+        <link href="http://www.spongehero.co.nz/" />
+        <link href="https://www.facebook.com/spongehero.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Mount Wellington, Auckland 1060</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>+6492585060</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Mount Wellington, Auckland 1060</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>+6492585060</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.991294" lon="174.881225">
+        <time>2016-05-10T05:47:38Z</time>
+        <name>Looksmart Alterations Manukau City</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Tue-Wed-Fri 9am-6pm, Thu 9am-9pm, Sat 9am-5.30pm, Sun 10am-6pm</cmt>
+        <desc>Mon-Tue-Wed-Fri 9am-6pm, Thu 9am-9pm, Sat 9am-5.30pm, Sun 10am-6pm</desc>
+        <link href="https://www.looksmartalterations.com.au/" />
+        <link href="https://www.facebook.com/LookSmartAlterations" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>ClothingStore</gpxx:Category>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop S241, Westfield Manukau City, Cnr Great South and Wiri Station Road, Manukau City</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 263 5716</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>ClothingStore</wptx1:Category>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop S241, Westfield Manukau City, Cnr Great South and Wiri Station Road, Manukau City</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 263 5716</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-43.515499" lon="172.636314">
+        <time>2015-02-04T03:30:54Z</time>
+        <name>Maxwell's Drycleaning Edgeware</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Fri 7.30am-5.30pm, Sat 9am-12am</cmt>
+        <desc>Mon-Fri 7.30am-5.30pm, Sat 9am-12am</desc>
+        <link href="http://www.maxwellsdrycleaning.co.nz/" />
+        <link href="https://www.facebook.com/maxwellsdrycleaningchch" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>1027 Colombo Street, Edgeware, Christchurch 8014</gpxx:StreetAddress>
+            <gpxx:City>Christchurch</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>03 379 7435</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>1027 Colombo Street, Edgeware, Christchurch 8014</wptx1:StreetAddress>
+            <wptx1:City>Christchurch</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>03 379 7435</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-43.55665" lon="172.61997">
+        <time>2015-02-04T03:34:05Z</time>
+        <name>Maxwell's Drycleaning Barrington</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Tue-Wed 8am-5.30pm, Thu-Fri 8am-6pm, Sat 10am-1pm</cmt>
+        <desc>Mon-Tue-Wed 8am-5.30pm, Thu-Fri 8am-6pm, Sat 10am-1pm</desc>
+        <link href="http://www.maxwellsdrycleaning.co.nz/" />
+        <link href="https://www.facebook.com/maxwellsdrycleaningchch" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 32b Barrington Mall, 256 Barrington Street, Spreydon, Christchurch 8024</gpxx:StreetAddress>
+            <gpxx:City>Christchurch</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>03 337 9412</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 32b Barrington Mall, 256 Barrington Street, Spreydon, Christchurch 8024</wptx1:StreetAddress>
+            <wptx1:City>Christchurch</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>03 337 9412</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-43.51247" lon="172.621248">
+        <time>2015-03-13T01:25:18Z</time>
+        <name>Maxwell's Drycleaning Merivale</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Tue-Wed 8am-5.30pm, Thu-Fri 8am-6pm, Sat 10am-1pm</cmt>
+        <desc>Mon-Tue-Wed 8am-5.30pm, Thu-Fri 8am-6pm, Sat 10am-1pm</desc>
+        <link href="http://www.maxwellsdrycleaning.co.nz/" />
+        <link href="https://www.facebook.com/maxwellsdrycleaningchch" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 35, Merivale Mall, 189 Papanui Road, Merivale, Christchurch</gpxx:StreetAddress>
+            <gpxx:City>Christchurch</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>03 355 5490</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 35, Merivale Mall, 189 Papanui Road, Merivale, Christchurch</wptx1:StreetAddress>
+            <wptx1:City>Christchurch</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>03 355 5490</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-43.517685" lon="172.588403">
+        <time>2015-04-09T08:31:29Z</time>
+        <name>Maxwell's Drycleaning Fendalton</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Fri 8am-5.30pm, Sat 10am-1pm</cmt>
+        <desc>Mon-Fri 8am-5.30pm, Sat 10am-1pm</desc>
+        <link href="http://www.maxwellsdrycleaning.co.nz/" />
+        <link href="https://www.facebook.com/maxwellsdrycleaningchch" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 5, Fendalton Mall, 19-23 Memorial Avenue, Fendalton, Christchurch 8053</gpxx:StreetAddress>
+            <gpxx:City>Christchurch</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>03 351 5056</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 5, Fendalton Mall, 19-23 Memorial Avenue, Fendalton, Christchurch 8053</wptx1:StreetAddress>
+            <wptx1:City>Christchurch</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>03 351 5056</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-43.543339" lon="172.590159">
+        <time>2015-02-04T03:39:30Z</time>
+        <name>Maxwell's Drycleaning Birmingham Drive</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Fri 7.30am-5.30pm</cmt>
+        <desc>Mon-Fri 7.30am-5.30pm</desc>
+        <link href="http://www.maxwellsdrycleaning.co.nz/" />
+        <link href="https://www.facebook.com/maxwellsdrycleaningchch" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>20 Birmingham Drive, Middleton, Christchurch</gpxx:StreetAddress>
+            <gpxx:City>Christchurch</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>03 366 0082</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>20 Birmingham Drive, Middleton, Christchurch</wptx1:StreetAddress>
+            <wptx1:City>Christchurch</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>03 366 0082</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-43.53006" lon="172.597555">
+        <time>2015-02-26T21:46:40Z</time>
+        <name>Quick Fit Alterations</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>LocalBusiness</gpxx:Category>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Level 1, Store 220, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Christchurch</gpxx:StreetAddress>
+            <gpxx:City>Christchurch</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>03 348 4924</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>LocalBusiness</wptx1:Category>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Level 1, Store 220, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Christchurch</wptx1:StreetAddress>
+            <wptx1:City>Christchurch</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>03 348 4924</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.90786" lon="174.685209">
+        <time>2015-03-09T04:58:22Z</time>
+        <name>NZ Drycleaners New Lynn</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.nzdrycleaners.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 305, LynnMall, 3058 Great North Road, New Lynn, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 827 2849</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 305, LynnMall, 3058 Great North Road, New Lynn, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 827 2849</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.898547" lon="174.907682">
+        <time>2015-03-12T04:41:57Z</time>
+        <name>Starchi &amp; Starchi Drycleanables</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 18, Highland Park Shopping Centre, 505 Pakuranga Road, Highland Park, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 535 5760</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 18, Highland Park Shopping Centre, 505 Pakuranga Road, Highland Park, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 535 5760</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.022444" lon="174.896576">
+        <time>2015-03-17T22:21:37Z</time>
+        <name>Manurewa Drycleaners</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 25, Southmall, 185 Great South Road, Manurewa, Auckland 2102</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 268 2688</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 25, Southmall, 185 Great South Road, Manurewa, Auckland 2102</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 268 2688</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.82068" lon="174.611408">
+        <time>2015-03-19T21:51:59Z</time>
+        <name>Ceda Drycleaners Westgate</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.cedadrycleaners.co.nz/" />
+        <link href="https://www.facebook.com/pages/Ceda-Drycleaners/561858313899123" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Westgate Shopping Centre, 1 Fernhill Drive, Massey, Auckland 0614</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 831 0297</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Westgate Shopping Centre, 1 Fernhill Drive, Massey, Auckland 0614</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 831 0297</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.969008" lon="174.798928">
+        <time>2015-04-10T01:04:41Z</time>
+        <name>Ceda Drycleaners Mangere</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.cedadrycleaners.co.nz/" />
+        <link href="https://www.facebook.com/pages/Ceda-Drycleaners/561858313899123" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 9, Mangere Town Centre, 93 Bader Drive, Mangere, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 275 9557</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 9, Mangere Town Centre, 93 Bader Drive, Mangere, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 275 9557</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.944892" lon="174.794031">
+        <time>2015-03-19T22:01:28Z</time>
+        <name>Ceda Drycleaners Mangere Bridge</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.cedadrycleaners.co.nz/" />
+        <link href="https://www.facebook.com/pages/Ceda-Drycleaners/561858313899123" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>43a Hastie Ave, Mangere Bridge, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 634 1457</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>43a Hastie Ave, Mangere Bridge, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 634 1457</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.910478" lon="174.774819">
+        <time>2015-03-23T08:48:17Z</time>
+        <name>Laundry Plus</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.laundryplus.co.nz/" />
+        <link href="https://www.facebook.com/laundryplusRoyalOak" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 27A1, Royal Oak Shopping Mall, 691 Manukau Road, Royal Oak, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 624 4540</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 27A1, Royal Oak Shopping Mall, 691 Manukau Road, Royal Oak, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 624 4540</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.910478" lon="174.774819">
+        <time>2015-03-23T09:08:12Z</time>
+        <name>Royal Oak Alterations &amp; Dry Cleaners</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Tue-Wed-Fri 9am-6pm, Thu 9am-8pm, Sat 9am-5.30pm, Sun 10am-4pm</cmt>
+        <desc>Mon-Tue-Wed-Fri 9am-6pm, Thu 9am-8pm, Sat 9am-5.30pm, Sun 10am-4pm</desc>
+        <link href="http://www.royaloakalterations.co.nz/" />
+        <link href="https://www.facebook.com/ROlAlterations" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 23B, Royal Oak Shopping Mall, 691 Manukau Road, Royal Oak, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 624 0023</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 23B, Royal Oak Shopping Mall, 691 Manukau Road, Royal Oak, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 624 0023</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.802709" lon="174.744003">
+        <time>2015-03-24T21:52:49Z</time>
+        <name>Laundry Express</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>3 Norman King Square, Northcote Shopping Centre, Raleigh Road, Northcote, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 480 0752</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>3 Norman King Square, Northcote Shopping Centre, Raleigh Road, Northcote, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 480 0752</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-41.222971" lon="174.807019">
+        <time>2015-03-26T23:53:14Z</time>
+        <name>NZ Drycleaners Johnsonville</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.nzdrycleaners.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 01, Johnsonville Shopping Centre, 32 Johnsonville Road, Johnsonville, Wellington</gpxx:StreetAddress>
+            <gpxx:City>Wellington</gpxx:City>
+            <gpxx:State>Wellington</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>04 478 5920</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 01, Johnsonville Shopping Centre, 32 Johnsonville Road, Johnsonville, Wellington</wptx1:StreetAddress>
+            <wptx1:City>Wellington</wptx1:City>
+            <wptx1:State>Wellington</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>04 478 5920</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.849904" lon="174.763712">
+        <time>2015-03-31T06:50:29Z</time>
+        <name>Auckland Clothing Alterations</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>ProfessionalService</gpxx:Category>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Level 2, Shop 905, Atrium on Elliott, 21-25 Elliott Street, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 309 0840</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>ProfessionalService</wptx1:Category>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Level 2, Shop 905, Atrium on Elliott, 21-25 Elliott Street, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 309 0840</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.964343" lon="174.902966">
+        <time>2015-11-13T11:22:24Z</time>
+        <name>Botany Junction Dry clean</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>7.30 am to 6.00pm monday to friday- sat 9 am to 4pm</cmt>
+        <desc>7.30 am to 6.00pm monday to friday- sat 9 am to 4pm</desc>
+        <link href="http://botanyjunctiondryclean.wooh.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Unit 24A, Botany Junction, 123 Ormiston Road, Flat Bush, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 2799488</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Unit 24A, Botany Junction, 123 Ormiston Road, Flat Bush, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 2799488</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-43.532054" lon="172.636225">
+        <time>2015-04-07T07:24:40Z</time>
+        <name>Christchurch Cleaning Service</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://christchurchcleaning.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Christchurch</gpxx:StreetAddress>
+            <gpxx:City>Christchurch</gpxx:City>
+            <gpxx:State>Canterbury</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800-700-606</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Christchurch</wptx1:StreetAddress>
+            <wptx1:City>Christchurch</wptx1:City>
+            <wptx1:State>Canterbury</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800-700-606</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.969607" lon="174.798874">
+        <time>2015-04-10T01:11:31Z</time>
+        <name>Laundry Doctor</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Mangere Town Centre, 93 Bader Drive, Mangere</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 275 3076</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Mangere Town Centre, 93 Bader Drive, Mangere</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 275 3076</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.969608" lon="174.79888">
+        <time>2015-04-10T01:15:48Z</time>
+        <name>Mangere Laundrette</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Mangere Town Centre, 93 Bader Drive, Mangere</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 275 4952</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Mangere Town Centre, 93 Bader Drive, Mangere</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 275 4952</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.832863" lon="174.623071">
+        <time>2015-04-14T11:44:00Z</time>
+        <name>The Laundry Station</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Shop 27, Royal Heights Shopping Centre, 138 Royal Road, Massey, Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 833 8810</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Shop 27, Royal Heights Shopping Centre, 138 Royal Road, Massey, Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 833 8810</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2015-07-14T06:27:41Z</time>
+        <name>Clearview Property Care</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.clearviewnz.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Wellington</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800-422-444</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Wellington</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800-422-444</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2015-08-05T06:01:45Z</time>
+        <name>Stoddard Road Laundry</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>7:30 am - 8:30 pm</cmt>
+        <desc>7:30 am - 8:30 pm</desc>
+        <link href="http://www.stoddardroadlaundry.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>220 Stoddard Road, Mount Roskill</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>(09) 629 5117</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>220 Stoddard Road, Mount Roskill</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>(09) 629 5117</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.84846" lon="174.763332">
+        <time>2015-11-11T06:21:31Z</time>
+        <name>Cleaning Approval</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://cleaningapproval.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0508-253-267</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0508-253-267</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-38.683901" lon="176.108012">
+        <time>2015-11-11T07:07:46Z</time>
+        <name>Mason Cleaning Service</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.masoncleaningservicestaupo.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Tauhara</gpxx:StreetAddress>
+            <gpxx:City>Taupo</gpxx:City>
+            <gpxx:State>Waikato</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0214-951-42</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Tauhara</wptx1:StreetAddress>
+            <wptx1:City>Taupo</wptx1:City>
+            <wptx1:State>Waikato</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0214-951-42</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2015-11-12T23:15:21Z</time>
+        <name>easy lifestyle</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>24/7 for online orders. Deliviers daytime or evening</cmt>
+        <desc>24/7 for online orders. Deliviers daytime or evening</desc>
+        <link href="http://easylifestyle.co.nz/" />
+        <link href="https://www.facebook.com/easylifestylenz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Grafton, 1023, Auckland</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber></gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Grafton, 1023, Auckland</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber></wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.885611" lon="174.810777">
+        <time>2016-01-15T04:57:21Z</time>
+        <name>Carpet Cleaning Force</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>9am-5pm</cmt>
+        <desc>9am-5pm</desc>
+        <link href="http://www.carpetcleaning.org.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>11 Richard Farrell Avenue Remuera Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>021-877-504</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>11 Richard Farrell Avenue Remuera Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>021-877-504</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-41.258314" lon="174.927634">
+        <time>2018-07-26T09:27:37Z</time>
+        <name>Debras Carpet Cleaning</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="https://www.debrascarpetcleaning.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>36 Kowhai ST, Wainuiomata Lower Hutt 5014</gpxx:StreetAddress>
+            <gpxx:City>Lower Hutt</gpxx:City>
+            <gpxx:State>Wellington</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>04 9701302</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>36 Kowhai ST, Wainuiomata Lower Hutt 5014</wptx1:StreetAddress>
+            <wptx1:City>Lower Hutt</wptx1:City>
+            <wptx1:State>Wellington</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>04 9701302</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-41.222044" lon="174.860733">
+        <time>2018-07-27T07:18:48Z</time>
+        <name>Arrow Matting (Arrow Hygiene)</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.arrowhygiene.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>22 Cornish Street Petone 5012</gpxx:StreetAddress>
+            <gpxx:City>Lower Hutt</gpxx:City>
+            <gpxx:State>Wellington</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>04 5895889</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>22 Cornish Street Petone 5012</wptx1:StreetAddress>
+            <wptx1:City>Lower Hutt</wptx1:City>
+            <wptx1:State>Wellington</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>04 5895889</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.84846" lon="174.763332">
+        <time>2016-07-23T23:18:46Z</time>
+        <name>Orderly Laundry &amp; Ironing Service</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Online Laundry Service</cmt>
+        <desc>Online Laundry Service</desc>
+        <link href="http://orderly.co.nz" />
+        <link href="https://www.facebook.com/OrderlyNZ" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Auckland</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>027 696 7337</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Auckland</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>027 696 7337</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2017-06-19T19:56:55Z</time>
+        <name>Double Bubble Laundromat</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>6.00 am - 10.00 pm</cmt>
+        <desc>6.00 am - 10.00 pm</desc>
+        <link href="http://www.doublebubble.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Dinsdale</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>3204</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Dinsdale</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>3204</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.725192" lon="174.695762">
+        <time>2017-07-20T07:27:27Z</time>
+        <name>Elite Carpet Cleaning</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://www.getelite.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>PO Box 144, Albany Village, Auckland 0755</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800 438 354</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>PO Box 144, Albany Village, Auckland 0755</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800 438 354</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.976262" lon="174.871421">
+        <time>2017-11-30T11:43:33Z</time>
+        <name>Top Star Cleaning - Wellington</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>9am to 5pm</cmt>
+        <desc>9am to 5pm</desc>
+        <link href="http://topstar.co.nz/" />
+        <link href="https://www.facebook.com/topstarclean" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>15 Nicholson Avenue, Papatoetoe, Auckland, 2025</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>064 439 10040</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>15 Nicholson Avenue, Papatoetoe, Auckland, 2025</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>064 439 10040</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.847265" lon="174.767894">
+        <time>2018-03-14T13:16:28Z</time>
+        <name>The Upholstery Cleaning Auckland Co</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="http://upholsterycleaning.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>41 Shortland Street Auckland 1010</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 376-7007</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>41 Shortland Street Auckland 1010</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 376-7007</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2018-03-15T07:18:52Z</time>
+        <name>The Flood Auckland Co</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Fri: 8AM - 6PM - Sat: 8AM - 4PM - Sun: Closed</cmt>
+        <desc>Mon-Fri: 8AM - 6PM - Sat: 8AM - 4PM - Sun: Closed</desc>
+        <link href="http://www.floodauckland.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>North Shore, Hauraki, Auckland 0622</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 489 5599</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>North Shore, Hauraki, Auckland 0622</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 489 5599</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2018-03-15T18:05:27Z</time>
+        <name>Drying Carpet</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon-Fri: 8AM - 6PM - Sat: 8AM - 4PM - Sun: Closed</cmt>
+        <desc>Mon-Fri: 8AM - 6PM - Sat: 8AM - 4PM - Sun: Closed</desc>
+        <link href="http://www.flood.org.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>West Tamaki Road, St Heliers, Auckland 1072</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 837 4545</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>West Tamaki Road, St Heliers, Auckland 1072</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 837 4545</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-40.349429" lon="175.623986">
+        <time>2018-05-29T21:08:24Z</time>
+        <name>The Laundry Room Palmerston North</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>5am - 11pm</cmt>
+        <desc>5am - 11pm</desc>
+        <link href="https://thelaundryroom.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>95 Albert Street, Palmerston North</gpxx:StreetAddress>
+            <gpxx:City>Palmerston North</gpxx:City>
+            <gpxx:State>Manawatu-Wanganui</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber></gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>95 Albert Street, Palmerston North</wptx1:StreetAddress>
+            <wptx1:City>Palmerston North</wptx1:City>
+            <wptx1:State>Manawatu-Wanganui</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber></wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.891005" lon="174.763242">
+        <time>2018-08-22T04:39:22Z</time>
+        <name>Carpet Surgeon</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>8am - 5pm, Mon- Sat</cmt>
+        <desc>8am - 5pm, Mon- Sat</desc>
+        <link href="http://www.carpetcleanerauckland.net.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>1 Ferryhill Rd, Epsom, Auckland 1023</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0508 787 4366</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>1 Ferryhill Rd, Epsom, Auckland 1023</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0508 787 4366</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.685532" lon="176.1659">
+        <time>2018-08-30T21:25:28Z</time>
+        <name>Tumble Laundromat Tauranga</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>6am - 10pm</cmt>
+        <desc>6am - 10pm</desc>
+        <link href="https://tumbleit.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>184 Cameron Road, Tauranga</gpxx:StreetAddress>
+            <gpxx:City>Tauranga</gpxx:City>
+            <gpxx:State>Bay of Plenty</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 576 6110</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>184 Cameron Road, Tauranga</wptx1:StreetAddress>
+            <wptx1:City>Tauranga</wptx1:City>
+            <wptx1:State>Bay of Plenty</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 576 6110</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.845639" lon="174.764358">
+        <time>2018-09-21T11:08:22Z</time>
+        <name>Prime Commercial Cleaning</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="https://www.primecleaning.co.nz" />
+        <link href="https://www.facebook.com/Prime-Cleaning-889389141115484" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Level 33, 23-29 Albert Street Auckland CBD Auckland 1010</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>+6421896184</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Level 33, 23-29 Albert Street Auckland CBD Auckland 1010</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>+6421896184</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.718831" lon="176.136243">
+        <time>2019-03-14T09:39:30Z</time>
+        <name>Excel Cleaning</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Mon to Sun 08:00 AM to 06:00 PM</cmt>
+        <desc>Mon to Sun 08:00 AM to 06:00 PM</desc>
+        <link href="http://excelcleaning.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>32 Burns Street, Tauranga, Bay of Plenty, 3110</gpxx:StreetAddress>
+            <gpxx:City>Tauranga</gpxx:City>
+            <gpxx:State>Bay of Plenty</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800 392 352</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>32 Burns Street, Tauranga, Bay of Plenty, 3110</wptx1:StreetAddress>
+            <wptx1:City>Tauranga</wptx1:City>
+            <wptx1:State>Bay of Plenty</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800 392 352</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2019-06-06T05:44:37Z</time>
+        <name>Authentic Lifestyle Products</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="https://www.lifestyleproducts.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>341D Flaxton Road Rangiora 7400</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800 75 49 86</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>341D Flaxton Road Rangiora 7400</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800 75 49 86</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.775866" lon="174.718443">
+        <time>2019-08-21T14:59:13Z</time>
+        <name>Carpet Cleaning North Shore Auckland</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>7am-7pm (7 days)</cmt>
+        <desc>7am-7pm (7 days)</desc>
+        <link href="https://www.carpetcleaningnorthshoreauckland.info" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>37A Camrose Pl Glenfield, Auckland 0629</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09-884 6596</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>37A Camrose Pl Glenfield, Auckland 0629</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09-884 6596</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.870631" lon="174.74538">
+        <time>2019-09-14T11:17:58Z</time>
+        <name>Premium Clean, Inc.</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>Monday to Sunday (7:30 am to 8:00 pm)</cmt>
+        <desc>Monday to Sunday (7:30 am to 8:00 pm)</desc>
+        <link href="https://www.premiumclean.co.nz/" />
+        <link href="https://www.facebook.com/pg/premiumcleanersnz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>2/2 Kingsland Terrace, Kingsland, Auckland, 1021</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>(+64) 21 113 3501</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>2/2 Kingsland Terrace, Kingsland, Auckland, 1021</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>(+64) 21 113 3501</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.870631" lon="174.74538">
+        <time>2019-09-14T12:06:15Z</time>
+        <name>Urban Care</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="https://www.urbancare.co.nz/" />
+        <link href="https://www.facebook.com/pg/urbancarenz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>2a/2 Kingsland Terrace, Kingsland, Auckland, 1021</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>+64 9-217 1471</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>2a/2 Kingsland Terrace, Kingsland, Auckland, 1021</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>+64 9-217 1471</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2019-10-16T15:27:02Z</time>
+        <name>Flood Restoration Auckland</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>24/7</cmt>
+        <desc>24/7</desc>
+        <link href="https://floodrestorationauckland.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>369 Great North Road, Henderson</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>+64800437969</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>369 Great North Road, Henderson</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>+64800437969</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2019-11-27T16:59:33Z</time>
+        <name>iDry Restorations</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>24/7</cmt>
+        <desc>24/7</desc>
+        <link href="https://idryrestorations.co.nz" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>8/251 Lincoln Rd, Henderson, Auckland</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800 437 969</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>8/251 Lincoln Rd, Henderson, Auckland</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800 437 969</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-36.933037" lon="174.900649">
+        <time>2020-01-28T07:54:15Z</time>
+        <name>Hygiene House</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <link href="https://www.hygienehouse.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>38A Greenmount Drive East Tamaki Auckland 2013</gpxx:StreetAddress>
+            <gpxx:City>Auckland</gpxx:City>
+            <gpxx:State>Auckland</gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>(09) 273 1224</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>38A Greenmount Drive East Tamaki Auckland 2013</wptx1:StreetAddress>
+            <wptx1:City>Auckland</wptx1:City>
+            <wptx1:State>Auckland</wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>(09) 273 1224</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="0.0" lon="0.0">
+        <time>2020-02-01T08:28:03Z</time>
+        <name>Carpet Cleaning Auckland Pros</name>          
+        <type>user</type>
+        <sym>Contact, Cat</sym>
+        <cmt>7am-7pm (7days)</cmt>
+        <desc>7am-7pm (7days)</desc>
+        <link href="https://www.carpetcleaningaucklandnz.info/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>DryCleaningOrLaundry</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Suite 9911/17B Farnham Street Parnell, Auckland 1052</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country>New Zealand</gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09-886 5999</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>DryCleaningOrLaundry</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Suite 9911/17B Farnham Street Parnell, Auckland 1052</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country>New Zealand</wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09-886 5999</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+</gpx>
