@@ -1,6 +1,11 @@
 <#
-.SYNOPSIS
-Installs (copies) custom point of interest files to connected Garmin Devices.
+    .SYNOPSIS
+    Installs (copies) custom point of interest files to connected Garmin Devices.
+
+    .AUTHOR
+    Craig McGregor
+    - https://randonneur.nz/poi
+    - https://github.com/craigofnz/supplementary-pois
 #>
 
 $found = 0
