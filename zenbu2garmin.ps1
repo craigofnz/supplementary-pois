@@ -80,6 +80,7 @@ function Get-Symbol
     elseif ($cats -contains 'SportsActivityLocation')    { 'Fitness Center' }
     elseif ($cats -contains 'Store')                     { 'Shopping Center'}
     elseif ($cats -contains 'LocalBusiness')             { 'Restarant'      }
+    elseif ($cats -contains 'TA-SpecialServices')        { 'Flag'           } # From manually built CSV
     else {
         $Waypoint.Categories | Write-Warning                
     }
@@ -111,10 +112,10 @@ Import-Csv -Path $src | ForEach-Object {
         <sym>$(Get-Symbol($PSITem))</sym>
 "@ | Write-Output
 
-    if (  ($null -ne $PSItem.opening_hours) -and ($PSItem.opening_hours.length -gt 0)  )
+    if (  ($null -ne $PSItem.opening_hours) -and ($PSItem.opening_hours.length -gt 0) -and ($null -ne $PSItem.description) -and ($PSItem.description.length -gt 0))
     {
-        "        <cmt>$($PSItem.opening_hours -replace '&', '&amp;')</cmt>"
-        "        <desc>$($PSItem.opening_hours -replace '&', '&amp;')</desc>"
+        "        <cmt>$($PSItem.opening_hours -replace '&', '&amp;')$($PSItem.description -replace '&', '&amp;')</cmt>"
+        "        <desc>$($PSItem.opening_hours -replace '&', '&amp;')$($PSItem.description -replace '&', '&amp;')</desc>"
     }
 
     if (  ($null -ne $PSItem.website) -and ($PSItem.website.length -gt 0)  )

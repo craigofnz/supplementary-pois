@@ -106,3 +106,15 @@ You are free:
 Under the following conditions:
 * Attribution. You must give attribution to 'Zenbu' and link to https://www.zenbu.co.nz/.
 
+# Statistics
+
+Count of PoI (Points of Interest) per category
+
+| Category                  | Count     |
+| ------------------------- | --------- |
+| laundry                   | 110       |
+| RefillNZ                  | 1348      |
+| TA-PhotoControls          | 31        |
+| TA-SpecialServices        | 62        |
+| toilet                    | 1721      |
+| __TOTAL__                 | __3272__  |

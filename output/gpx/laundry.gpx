@@ -3,7 +3,7 @@
     <link href="https://randonneur.nz">
       <text>randonneur.nz</text>
     </link>
-    <time>2020-02-02T22:19:58Z</time>
+    <time>2020-02-03T08:20:37Z</time>
     <bounds maxlat="-35.22676" maxlon="178.00417" minlat="-46.56069" minlon="-176.55973" />
   </metadata>
     <wpt lat="-37.403147" lon="175.144926">
@@ -11,8 +11,6 @@
         <name>Te Kauwhata Auto Services</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Sun</cmt>
-        <desc>Mon-Sun</desc>
         <link href="http://www.mobil.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -288,8 +286,6 @@
         <name>Regal Drycleaners Newmarket</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Fri 7am-6.30pm, Sat 8.30am-5pm, Sun 11am-3pm</cmt>
-        <desc>Mon-Fri 7am-6.30pm, Sat 8.30am-5pm, Sun 11am-3pm</desc>
         <link href="http://www.regaldrycleaners.co.nz/" />
         <link href="https://www.facebook.com/regaldrycleanersNZ" />
     <extensions>
@@ -330,8 +326,6 @@
         <name>Herne Bay Drycleaners</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Monday to Friday : 7:30 am to 5:30 pm Saturdays : 8:30 am to 3:30 pm Sundays : closed</cmt>
-        <desc>Monday to Friday : 7:30 am to 5:30 pm Saturdays : 8:30 am to 3:30 pm Sundays : closed</desc>
         <link href="https://www.hbdc.co.nz/" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -371,8 +365,6 @@
         <name>La Nuova Drycleaners</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>7:30 - 5:30</cmt>
-        <desc>7:30 - 5:30</desc>
         <link href="http://www.lanuova.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -724,8 +716,6 @@
         <name>TLC Drycleaners Ponsonby</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Fri 7am-6pm, Sat 9am-2pm</cmt>
-        <desc>Mon-Fri 7am-6pm, Sat 9am-2pm</desc>
     <extensions>
         <gpxx:WaypointExtension>
             <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
@@ -764,8 +754,6 @@
         <name>Rolleston Drycleaners &amp; Laundromat</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Fri 8am-5.30pm, Sat 9am-1pm</cmt>
-        <desc>Mon-Fri 8am-5.30pm, Sat 9am-1pm</desc>
     <extensions>
         <gpxx:WaypointExtension>
             <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
@@ -806,8 +794,6 @@
         <name>Sunrise to Sunset Laundromat</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>9 am to 7 pm</cmt>
-        <desc>9 am to 7 pm</desc>
     <extensions>
         <gpxx:WaypointExtension>
             <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
@@ -884,8 +870,6 @@
         <name>Spooners Drycleaners</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>7:30 - 5:30</cmt>
-        <desc>7:30 - 5:30</desc>
         <link href="http://www.dry-cleaners.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -1079,8 +1063,6 @@
         <name>Sincerity Drycleaning</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Tue-Wed-Fri 7.30am-6pm, Thu 7.30am-7pm, Sat 9am-2pm, Sun 1pm-5pm</cmt>
-        <desc>Mon-Tue-Wed-Fri 7.30am-6pm, Thu 7.30am-7pm, Sat 9am-2pm, Sun 1pm-5pm</desc>
     <extensions>
         <gpxx:WaypointExtension>
             <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
@@ -1195,8 +1177,6 @@
         <name>Regal Drycleaners Eastridge</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Fri 7.30am-6.30pm, Sat 9am-6.30pm, Sun 9am-4.30pm, Public Holidays 9am-4.30pm (Anzac Day 1pm-4.30pm)</cmt>
-        <desc>Mon-Fri 7.30am-6.30pm, Sat 9am-6.30pm, Sun 9am-4.30pm, Public Holidays 9am-4.30pm (Anzac Day 1pm-4.30pm)</desc>
         <link href="http://www.regaldrycleaners.co.nz/" />
         <link href="https://www.facebook.com/regaldrycleanersNZ" />
     <extensions>
@@ -1237,8 +1217,6 @@
         <name>Splish Splash Laundromat</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>7 days 8am-6pm</cmt>
-        <desc>7 days 8am-6pm</desc>
     <extensions>
         <gpxx:WaypointExtension>
             <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
@@ -1315,8 +1293,6 @@
         <name>Ellerslie Dry Cleaners</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon to Thu 7.30am to 5.30pm Fri 7.30am to 6pm Sat 9am to 1pm</cmt>
-        <desc>Mon to Thu 7.30am to 5.30pm Fri 7.30am to 6pm Sat 9am to 1pm</desc>
         <link href="https://www.ellersliedrycleaners.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -1432,8 +1408,6 @@
         <name>KleenAir Services</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>24-7</cmt>
-        <desc>24-7</desc>
         <link href="http://www.kleenair.co.nz" />
         <link href="http://www.facebook.com/pages/KleenAir-Services/200019743390238" />
     <extensions>
@@ -1554,8 +1528,6 @@
         <name>Wash Inn Laundrette</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>7 days a week</cmt>
-        <desc>7 days a week</desc>
     <extensions>
         <gpxx:WaypointExtension>
             <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
@@ -1633,8 +1605,6 @@
         <name>Super Wash Laundromat</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Open 7 Days. Monday to Friday: 8AM to 7PM. Saturday to Sunday: 7:30AM to 7PM</cmt>
-        <desc>Open 7 Days. Monday to Friday: 8AM to 7PM. Saturday to Sunday: 7:30AM to 7PM</desc>
         <link href="http://www.superwashlaundromat.co.nz" />
         <link href="http://www.facebook.com/SuperWashNZ" />
     <extensions>
@@ -1675,8 +1645,6 @@
         <name>Cleaning Co Heat Pump Cleaning</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>8am to 6pm or by appointment</cmt>
-        <desc>8am to 6pm or by appointment</desc>
         <link href="http://www.cleaningco.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -1761,8 +1729,6 @@
         <name>Bubbles Laundromat</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>7 days 6am to Midnight</cmt>
-        <desc>7 days 6am to Midnight</desc>
         <link href="http://www.bubbleslaundromat.co.nz/" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -1997,8 +1963,6 @@
         <name>Star Drycleaning and Devonport Alterations</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>mon-fri 8.30-5.30pm sat8.30-1.30 sun closed</cmt>
-        <desc>mon-fri 8.30-5.30pm sat8.30-1.30 sun closed</desc>
         <link href="http://www.devonportalterations.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -2038,8 +2002,6 @@
         <name>brocklebank drycleaners dunedin</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>mon,tues,wed, 7:45am-5:30pm, thurs, 7:45am-6:00pm, fri, 7:45am-5:00pm, sat, 9:00am-11:00am</cmt>
-        <desc>mon,tues,wed, 7:45am-5:30pm, thurs, 7:45am-6:00pm, fri, 7:45am-5:00pm, sat, 9:00am-11:00am</desc>
         <link href="http://www.brocklebanksdrycleaners.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -2118,8 +2080,6 @@
         <name>La Nuova Drycleaners</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>7:30 - 5:30</cmt>
-        <desc>7:30 - 5:30</desc>
         <link href="http://www.lanuova.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -2159,8 +2119,6 @@
         <name>QED Total Clean</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>9-5:30</cmt>
-        <desc>9-5:30</desc>
         <link href="http://www.qedtotalclean.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -2200,8 +2158,6 @@
         <name>Liquid Self Service Laundromat</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>5am - 11pm 7 days</cmt>
-        <desc>5am - 11pm 7 days</desc>
         <link href="http://liquidlaundromats.co.nz/" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -2317,8 +2273,6 @@
         <name>Spongehero Ltd</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>8.30am - 4.30pm</cmt>
-        <desc>8.30am - 4.30pm</desc>
         <link href="http://www.spongehero.co.nz/" />
         <link href="https://www.facebook.com/spongehero.nz" />
     <extensions>
@@ -2359,8 +2313,6 @@
         <name>Looksmart Alterations Manukau City</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Tue-Wed-Fri 9am-6pm, Thu 9am-9pm, Sat 9am-5.30pm, Sun 10am-6pm</cmt>
-        <desc>Mon-Tue-Wed-Fri 9am-6pm, Thu 9am-9pm, Sat 9am-5.30pm, Sun 10am-6pm</desc>
         <link href="https://www.looksmartalterations.com.au/" />
         <link href="https://www.facebook.com/LookSmartAlterations" />
     <extensions>
@@ -2403,8 +2355,6 @@
         <name>Maxwell's Drycleaning Edgeware</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Fri 7.30am-5.30pm, Sat 9am-12am</cmt>
-        <desc>Mon-Fri 7.30am-5.30pm, Sat 9am-12am</desc>
         <link href="http://www.maxwellsdrycleaning.co.nz/" />
         <link href="https://www.facebook.com/maxwellsdrycleaningchch" />
     <extensions>
@@ -2445,8 +2395,6 @@
         <name>Maxwell's Drycleaning Barrington</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Tue-Wed 8am-5.30pm, Thu-Fri 8am-6pm, Sat 10am-1pm</cmt>
-        <desc>Mon-Tue-Wed 8am-5.30pm, Thu-Fri 8am-6pm, Sat 10am-1pm</desc>
         <link href="http://www.maxwellsdrycleaning.co.nz/" />
         <link href="https://www.facebook.com/maxwellsdrycleaningchch" />
     <extensions>
@@ -2487,8 +2435,6 @@
         <name>Maxwell's Drycleaning Merivale</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Tue-Wed 8am-5.30pm, Thu-Fri 8am-6pm, Sat 10am-1pm</cmt>
-        <desc>Mon-Tue-Wed 8am-5.30pm, Thu-Fri 8am-6pm, Sat 10am-1pm</desc>
         <link href="http://www.maxwellsdrycleaning.co.nz/" />
         <link href="https://www.facebook.com/maxwellsdrycleaningchch" />
     <extensions>
@@ -2529,8 +2475,6 @@
         <name>Maxwell's Drycleaning Fendalton</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Fri 8am-5.30pm, Sat 10am-1pm</cmt>
-        <desc>Mon-Fri 8am-5.30pm, Sat 10am-1pm</desc>
         <link href="http://www.maxwellsdrycleaning.co.nz/" />
         <link href="https://www.facebook.com/maxwellsdrycleaningchch" />
     <extensions>
@@ -2571,8 +2515,6 @@
         <name>Maxwell's Drycleaning Birmingham Drive</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Fri 7.30am-5.30pm</cmt>
-        <desc>Mon-Fri 7.30am-5.30pm</desc>
         <link href="http://www.maxwellsdrycleaning.co.nz/" />
         <link href="https://www.facebook.com/maxwellsdrycleaningchch" />
     <extensions>
@@ -2928,8 +2870,6 @@
         <name>Royal Oak Alterations &amp; Dry Cleaners</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Tue-Wed-Fri 9am-6pm, Thu 9am-8pm, Sat 9am-5.30pm, Sun 10am-4pm</cmt>
-        <desc>Mon-Tue-Wed-Fri 9am-6pm, Thu 9am-8pm, Sat 9am-5.30pm, Sun 10am-4pm</desc>
         <link href="http://www.royaloakalterations.co.nz/" />
         <link href="https://www.facebook.com/ROlAlterations" />
     <extensions>
@@ -3087,8 +3027,6 @@
         <name>Botany Junction Dry clean</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>7.30 am to 6.00pm monday to friday- sat 9 am to 4pm</cmt>
-        <desc>7.30 am to 6.00pm monday to friday- sat 9 am to 4pm</desc>
         <link href="http://botanyjunctiondryclean.wooh.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -3320,8 +3258,6 @@
         <name>Stoddard Road Laundry</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>7:30 am - 8:30 pm</cmt>
-        <desc>7:30 am - 8:30 pm</desc>
         <link href="http://www.stoddardroadlaundry.co.nz/" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -3439,8 +3375,6 @@
         <name>easy lifestyle</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>24/7 for online orders. Deliviers daytime or evening</cmt>
-        <desc>24/7 for online orders. Deliviers daytime or evening</desc>
         <link href="http://easylifestyle.co.nz/" />
         <link href="https://www.facebook.com/easylifestylenz/" />
     <extensions>
@@ -3481,8 +3415,6 @@
         <name>Carpet Cleaning Force</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>9am-5pm</cmt>
-        <desc>9am-5pm</desc>
         <link href="http://www.carpetcleaning.org.nz/" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -3600,8 +3532,6 @@
         <name>Orderly Laundry &amp; Ironing Service</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Online Laundry Service</cmt>
-        <desc>Online Laundry Service</desc>
         <link href="http://orderly.co.nz" />
         <link href="https://www.facebook.com/OrderlyNZ" />
     <extensions>
@@ -3642,8 +3572,6 @@
         <name>Double Bubble Laundromat</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>6.00 am - 10.00 pm</cmt>
-        <desc>6.00 am - 10.00 pm</desc>
         <link href="http://www.doublebubble.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -3722,8 +3650,6 @@
         <name>Top Star Cleaning - Wellington</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>9am to 5pm</cmt>
-        <desc>9am to 5pm</desc>
         <link href="http://topstar.co.nz/" />
         <link href="https://www.facebook.com/topstarclean" />
     <extensions>
@@ -3803,8 +3729,6 @@
         <name>The Flood Auckland Co</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Fri: 8AM - 6PM - Sat: 8AM - 4PM - Sun: Closed</cmt>
-        <desc>Mon-Fri: 8AM - 6PM - Sat: 8AM - 4PM - Sun: Closed</desc>
         <link href="http://www.floodauckland.co.nz/" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -3844,8 +3768,6 @@
         <name>Drying Carpet</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon-Fri: 8AM - 6PM - Sat: 8AM - 4PM - Sun: Closed</cmt>
-        <desc>Mon-Fri: 8AM - 6PM - Sat: 8AM - 4PM - Sun: Closed</desc>
         <link href="http://www.flood.org.nz/" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -3885,8 +3807,6 @@
         <name>The Laundry Room Palmerston North</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>5am - 11pm</cmt>
-        <desc>5am - 11pm</desc>
         <link href="https://thelaundryroom.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -3926,8 +3846,6 @@
         <name>Carpet Surgeon</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>8am - 5pm, Mon- Sat</cmt>
-        <desc>8am - 5pm, Mon- Sat</desc>
         <link href="http://www.carpetcleanerauckland.net.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -3967,8 +3885,6 @@
         <name>Tumble Laundromat Tauranga</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>6am - 10pm</cmt>
-        <desc>6am - 10pm</desc>
         <link href="https://tumbleit.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -4048,8 +3964,6 @@
         <name>Excel Cleaning</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Mon to Sun 08:00 AM to 06:00 PM</cmt>
-        <desc>Mon to Sun 08:00 AM to 06:00 PM</desc>
         <link href="http://excelcleaning.co.nz/" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -4128,8 +4042,6 @@
         <name>Carpet Cleaning North Shore Auckland</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>7am-7pm (7 days)</cmt>
-        <desc>7am-7pm (7 days)</desc>
         <link href="https://www.carpetcleaningnorthshoreauckland.info" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -4169,8 +4081,6 @@
         <name>Premium Clean, Inc.</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>Monday to Sunday (7:30 am to 8:00 pm)</cmt>
-        <desc>Monday to Sunday (7:30 am to 8:00 pm)</desc>
         <link href="https://www.premiumclean.co.nz/" />
         <link href="https://www.facebook.com/pg/premiumcleanersnz" />
     <extensions>
@@ -4251,8 +4161,6 @@
         <name>Flood Restoration Auckland</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>24/7</cmt>
-        <desc>24/7</desc>
         <link href="https://floodrestorationauckland.co.nz/" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -4292,8 +4200,6 @@
         <name>iDry Restorations</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>24/7</cmt>
-        <desc>24/7</desc>
         <link href="https://idryrestorations.co.nz" />
     <extensions>
         <gpxx:WaypointExtension>
@@ -4372,8 +4278,6 @@
         <name>Carpet Cleaning Auckland Pros</name>          
         <type>user</type>
         <sym>Contact, Cat</sym>
-        <cmt>7am-7pm (7days)</cmt>
-        <desc>7am-7pm (7days)</desc>
         <link href="https://www.carpetcleaningaucklandnz.info/" />
     <extensions>
         <gpxx:WaypointExtension>

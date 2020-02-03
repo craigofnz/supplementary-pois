@@ -1,0 +1,2368 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="randonneur.nz" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+  <metadata>
+    <link href="https://randonneur.nz">
+      <text>randonneur.nz</text>
+    </link>
+    <time>2020-02-03T08:21:23Z</time>
+    <bounds maxlat="-35.22676" maxlon="178.00417" minlat="-46.56069" minlon="-176.55973" />
+  </metadata>
+    <wpt lat="-36.3531641" lon="174.1721607">
+        <time>1/01/2020</time>
+        <name>Pouto Marae</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Pouto</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>027 277 7797</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Pouto</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>027 277 7797</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.9522919" lon="175.6656973">
+        <time>1/01/2020</time>
+        <name>Karapiro Vista</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>66A Horahora Road, Piarere</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>027 226 1514</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>66A Horahora Road, Piarere</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>027 226 1514</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="" lon="">
+        <time>1/01/2020</time>
+        <name>Margaret AirBnB</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>33 Moana Crescent, Mangakino</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>021 997274</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>33 Moana Crescent, Mangakino</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>021 997274</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-38.5217505" lon="175.5395037">
+        <time>1/01/2020</time>
+        <name>Pa Harakeke</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Pureora</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>027 759 3978</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Pureora</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>027 759 3978</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.1425466" lon="175.5419391">
+        <time>1/01/2020</time>
+        <name>JollyBikes</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>96 Richmond St, Thames</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>021 0816 5000</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>96 Richmond St, Thames</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>021 0816 5000</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.3808176" lon="175.6707806">
+        <time>1/01/2020</time>
+        <name>Paeroa Info Hub</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>101 Normanby Road, Paeroa</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 862 8636</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>101 Normanby Road, Paeroa</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 862 8636</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.5444326" lon="175.7137776">
+        <time>1/01/2020</time>
+        <name>Te Aroha Motel</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>108 Whitaker Street Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 884 9417</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>108 Whitaker Street Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 884 9417</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.808966" lon="175.772571">
+        <time>1/01/2020</time>
+        <name>The Good Merchant</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>44 Broadway, Matamata</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 880 9561</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>44 Broadway, Matamata</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 880 9561</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.207276" lon="175.3332852">
+        <time>1/01/2020</time>
+        <name>Miranda Holiday Park</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>595 Front Miranda Road, Miranda</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800 833 144</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>595 Front Miranda Road, Miranda</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800 833 144</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.2142521" lon="175.3538517">
+        <time>1/01/2020</time>
+        <name>Miranda Homestead B&amp;B</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>397 Front Miranda Road, Waitakaruru</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 867 3377</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>397 Front Miranda Road, Waitakaruru</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 867 3377</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.1475053" lon="175.5488702">
+        <time>1/01/2020</time>
+        <name>Tuscany On Thames Motel</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>200 Jellicoe Crescent, Thames</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 868 5099</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>200 Jellicoe Crescent, Thames</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 868 5099</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.1484609" lon="175.5511262">
+        <time>1/01/2020</time>
+        <name>Rolleston Motel</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>105 Rolleston Street, Thames</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 868 8091</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>105 Rolleston Street, Thames</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 868 8091</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.29348" lon="175.655439">
+        <time>1/01/2020</time>
+        <name>Corbett House B&amp;B</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>8088 State Highway 26, Kopu-Paeroa Road, Hikutaia</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 862 4710</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>8088 State Highway 26, Kopu-Paeroa Road, Hikutaia</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 862 4710</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.3820984" lon="175.6719305">
+        <time>1/01/2020</time>
+        <name>Pedlars Motel</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>2A Arney Street, Paeroa</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800 579 645</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>2A Arney Street, Paeroa</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800 579 645</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.368213" lon="175.661143">
+        <time>1/01/2020</time>
+        <name>Mexicana</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>71 Puke Road, Paeroa</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 862 8216</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>71 Puke Road, Paeroa</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 862 8216</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.3793191" lon="175.6704719">
+        <time>1/01/2020</time>
+        <name>The Refinery</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>5 Willoughby Street, Paeroa</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 862 7678</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>5 Willoughby Street, Paeroa</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 862 7678</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.5444326" lon="175.7137776">
+        <time>1/01/2020</time>
+        <name>Te Aroha Motel</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>108 Whitaker Street, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 884 9417</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>108 Whitaker Street, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 884 9417</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.5402218" lon="175.7117057">
+        <time>1/01/2020</time>
+        <name>The Nunnery</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>16 Burgess Street, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>027 305 9285</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>16 Burgess Street, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>027 305 9285</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.543233" lon="175.715212">
+        <time>1/01/2020</time>
+        <name>Aroha Mountain Lodge</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>5-7 Boundary Street, The Domain, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 884 8134</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>5-7 Boundary Street, The Domain, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 884 8134</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.566376" lon="175.7195616">
+        <time>1/01/2020</time>
+        <name>Te Aroha Holiday Park</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>217 Stanley Road, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>027 221 2139</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>217 Stanley Road, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>027 221 2139</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.708663" lon="175.78123">
+        <time>1/01/2020</time>
+        <name>House with No Nails</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>80 Waghorn Rd Wardville</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 888 091</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>80 Waghorn Rd Wardville</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 888 091</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.8025301" lon="175.8087921">
+        <time>1/01/2020</time>
+        <name>A Place in the Paddock</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>266B Tower Road, Matamata</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>027 488 4131</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>266B Tower Road, Matamata</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>027 488 4131</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.8119868" lon="175.7849443">
+        <time>1/01/2020</time>
+        <name>25 Tower</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>25 Tower Road, Matamata</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>021 272 3289</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>25 Tower Road, Matamata</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>021 272 3289</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.8144906" lon="175.781361">
+        <time>1/01/2020</time>
+        <name>Tahi Totara</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>1 Totara Avenue, Matamata</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>027 499 8152</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>1 Totara Avenue, Matamata</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>027 499 8152</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.8143717" lon="175.7632466">
+        <time>1/01/2020</time>
+        <name>Kiwi Cottage</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>York Place, Matamata</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>021 0268 3156</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>York Place, Matamata</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>021 0268 3156</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.1092153" lon="175.2962955">
+        <time>1/01/2020</time>
+        <name>Kaiaua Hotel</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>943 East Coast Road, Kaiaua</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>09 232 2717</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>943 East Coast Road, Kaiaua</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>09 232 2717</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.1095132" lon="175.2962609">
+        <time>1/01/2020</time>
+        <name>Kaiaua Fish and Chips</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>East Coast Road, Kaiaua</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>092 32 2776 </gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>East Coast Road, Kaiaua</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>092 32 2776 </wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.2075464" lon="175.3319126">
+        <time>1/01/2020</time>
+        <name>Miranda Hot Springs</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>595 Front Miranda Rd, Miranda</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 867 3055 </gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>595 Front Miranda Rd, Miranda</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 867 3055 </wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.2350035" lon="175.3946837">
+        <time>1/01/2020</time>
+        <name>Waitakaruru Country Store</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>659 State Highway 25, Waitakaruru</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 867 3314 </gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>659 State Highway 25, Waitakaruru</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 867 3314 </wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.2163574" lon="175.4853712">
+        <time>1/01/2020</time>
+        <name>Bugger Caf?</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>659 State Highway 25, Waitakaruru</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>021 109 1290 </gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>659 State Highway 25, Waitakaruru</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>021 109 1290 </wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.1360201" lon="175.5410043">
+        <time>1/01/2020</time>
+        <name>Grahamstown Bar and Diner</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>700 Pollen Street, Thame</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 868 6008</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>700 Pollen Street, Thame</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 868 6008</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.1879392" lon="175.5703221">
+        <time>1/01/2020</time>
+        <name>Kopu Caf?</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>101 Kopu Road, Kopu</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 868 5926</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>101 Kopu Road, Kopu</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 868 5926</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.2129136" lon="175.6179967">
+        <time>1/01/2020</time>
+        <name>The Matatoki Cheese Barn</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>4 Wainui Road, Matatoki </gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 868 1284 </gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>4 Wainui Road, Matatoki </wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 868 1284 </wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.229717" lon="175.6369761">
+        <time>1/01/2020</time>
+        <name>Puriri Coachhouse</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>8865 Paeroa Kopu Road, Puriri</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 868 1066</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>8865 Paeroa Kopu Road, Puriri</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 868 1066</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.292286" lon="175.6551">
+        <time>1/01/2020</time>
+        <name>The Convienent Cow</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>8102 State Highway 26, Hikutaia</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 862 4500</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>8102 State Highway 26, Hikutaia</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 862 4500</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.3816235" lon="175.672066">
+        <time>1/01/2020</time>
+        <name>One3One Restaurant</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>131 Normanby Road, Paeroa</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 862 7272</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>131 Normanby Road, Paeroa</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 862 7272</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.3801317" lon="175.6704206">
+        <time>1/01/2020</time>
+        <name>Courtyard Caf?</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>72 Normanby Road, Paeroa</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 862 7046</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>72 Normanby Road, Paeroa</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 862 7046</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.3793191" lon="175.6704719">
+        <time>1/01/2020</time>
+        <name>The Refinery</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>5 Willoughby Street, Paeroa</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 862 7678</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>5 Willoughby Street, Paeroa</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 862 7678</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.5419647" lon="175.711921">
+        <time>1/01/2020</time>
+        <name>Villa Nine</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>9 Lawrence Avenue, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 884 9696</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>9 Lawrence Avenue, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 884 9696</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.5434918" lon="175.7123487">
+        <time>1/01/2020</time>
+        <name>Ironique</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>159 Whitaker Street, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 884 8489</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>159 Whitaker Street, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 884 8489</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.5443354" lon="175.7163861">
+        <time>1/01/2020</time>
+        <name>Domain Cottage Caf?</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Te Aroha Domain 2-1B Whitaker Street, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 884 9222</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Te Aroha Domain 2-1B Whitaker Street, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 884 9222</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.542686" lon="175.71221">
+        <time>1/01/2020</time>
+        <name>Austins Bar and Bistro</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>174 Whitaker Street, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 8847574</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>174 Whitaker Street, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 8847574</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.5880697" lon="175.7332838">
+        <time>1/01/2020</time>
+        <name>The Old Forge</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>9 Alexandra Road, Te Aroha West.</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 884 8338</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>9 Alexandra Road, Te Aroha West.</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 884 8338</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.808966" lon="175.772571">
+        <time>1/01/2020</time>
+        <name>The Good Merchant</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>44 Broadway, Matamata </gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 880 9561</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>44 Broadway, Matamata </wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 880 9561</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.207276" lon="175.3332852">
+        <time>1/01/2020</time>
+        <name>Miranda Holiday Park</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>595 Front Miranda Road, Miranda</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800 833 144</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>595 Front Miranda Road, Miranda</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800 833 144</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.2075464" lon="175.3319126">
+        <time>1/01/2020</time>
+        <name>Miranda Hot Springs</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>595 Front Miranda Road, Miranda</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 867 3055</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>595 Front Miranda Road, Miranda</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 867 3055</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.544875" lon="175.7166759">
+        <time>1/01/2020</time>
+        <name>Te Aroha Swimzone</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Te Aroha Domain, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 884 4498</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Te Aroha Domain, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 884 4498</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.5438478" lon="175.7158818">
+        <time>1/01/2020</time>
+        <name>Te Aroha Spas</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Te Aroha Domain, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 884 8717</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Te Aroha Domain, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 884 8717</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.566376" lon="175.7195616">
+        <time>1/01/2020</time>
+        <name>Te Aroha Holiday Park</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>217 Stanley Road, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>027 221 2139</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>217 Stanley Road, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>027 221 2139</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.8120569" lon="175.7756756">
+        <time>1/01/2020</time>
+        <name>Swim Zone Matamata</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>10 Meura St, Matamata </gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 888 4899</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>10 Meura St, Matamata </wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 888 4899</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.1425466" lon="175.5419391">
+        <time>1/01/2020</time>
+        <name>JollyBikes</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>96 Richmond St, Thames</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>021 0816 5000</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>96 Richmond St, Thames</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>021 0816 5000</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.3912019" lon="175.8405106">
+        <time>1/01/2020</time>
+        <name>Waihi Sports and Cycles</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>95 Seddon Street, Waihi</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 863 8418</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>95 Seddon Street, Waihi</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 863 8418</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.5444326" lon="175.7137776">
+        <time>1/01/2020</time>
+        <name>Te Aroha Motel</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>108 Whitaker Street, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 884 9417</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>108 Whitaker Street, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 884 9417</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.1376732" lon="175.5399578">
+        <time>1/01/2020</time>
+        <name>TCA Self Service Laundromat </name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>511 Queen Street, Thames </gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 868 8540</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>511 Queen Street, Thames </wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 868 8540</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.5422782" lon="175.7107613">
+        <time>1/01/2020</time>
+        <name>Te Aroha Laundromat</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>14 Lawrence Ave, Te Aroha</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>027 663 0100</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>14 Lawrence Ave, Te Aroha</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>027 663 0100</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.8088017" lon="175.7722064">
+        <time>1/01/2020</time>
+        <name>Sincerity Apparelmaster </name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>42 Broadway, Matamata </gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>07 888 8696</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>42 Broadway, Matamata </wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>07 888 8696</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-37.380309" lon="175.671178">
+        <time>1/01/2020</time>
+        <name>Paeroa Laundromat &amp; Hot Showers </name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>3 Mackay Street, Paeroa </gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>027 5056591</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>3 Mackay Street, Paeroa </wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>027 5056591</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-38.6946883" lon="175.5612099">
+        <time>1/01/2020</time>
+        <name>Pureora Cabins</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Pureora</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>027 315 7572</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Pureora</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>027 315 7572</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-38.635909" lon="175.4944343">
+        <time>1/01/2020</time>
+        <name>Timber Trail Lodge</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+        <link href="https://www.timbertraillodge.co.nz/" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Piropiro</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>0800 885 6343</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Piropiro</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>0800 885 6343</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-38.7212312" lon="175.3025768">
+        <time>1/01/2020</time>
+        <name>Epic Cycle Adventures</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Ongarue</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>022 023 7958</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Ongarue</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>022 023 7958</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-38.715371" lon="175.284304">
+        <time>1/01/2020</time>
+        <name>Timber Trail Centre</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+        <link href="https://timbertrailcentre.com" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Ongarue</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>021 082 66 60 3</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Ongarue</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>021 082 66 60 3</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+    <wpt lat="-38.7212312" lon="175.3025768">
+        <time>1/01/2020</time>
+        <name>Timber Trail Transport</name>          
+        <type>user</type>
+        <sym>Flag</sym>
+        <link href="https://timbertrailshuttles.com" />
+    <extensions>
+        <gpxx:WaypointExtension>
+            <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            <gpxx:Categories>
+                  <gpxx:Category>TA-SpecialServices</gpxx:Category>
+    </gpxx:Categories>
+    <gpxx:Address>
+            <gpxx:StreetAddress>Ongarue</gpxx:StreetAddress>
+            <gpxx:City></gpxx:City>
+            <gpxx:State></gpxx:State>
+            <gpxx:Country></gpxx:Country>              
+        </gpxx:Address>
+            <gpxx:PhoneNumber>?0800 785 500</gpxx:PhoneNumber>
+    </gpxx:WaypointExtension>
+        <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+                      <wptx1:Category>TA-SpecialServices</wptx1:Category>
+    </wptx1:Categories>
+        <wptx1:Address>
+            <wptx1:StreetAddress>Ongarue</wptx1:StreetAddress>
+            <wptx1:City></wptx1:City>
+            <wptx1:State></wptx1:State>
+            <wptx1:Country></wptx1:Country>
+        </wptx1:Address>
+             <wptx1:PhoneNumber>?0800 785 500</wptx1:PhoneNumber>
+        </wptx1:WaypointExtension>
+        <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-02-01T05:44:09Z</ctx:CreationTime>
+        </ctx:CreationTimeExtension>
+    </extensions>
+    </wpt>
+
+</gpx>

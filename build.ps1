@@ -19,7 +19,7 @@ $outGPIDir  = Join-Path $outDir 'gpi'
 #region Zenbu
 
 Get-ChildItem -Path (Resolve-Path (Join-Path (Join-Path '.' 'src-data') 'zenbu')) -Filter "*.csv" | ForEach-Object {
-    .\zenbu2garmin.ps1    -src $PSItem.FullName -dst (Join-Path $outGPXDir "$($PSItem.BaseName).gpx")
+    & $PSScriptRoot\zenbu2garmin.ps1    -src $PSItem.FullName -dst (Join-Path $outGPXDir "$($PSItem.BaseName).gpx")
 }
 
 #endregion
@@ -30,6 +30,16 @@ Get-ChildItem -Path (Resolve-Path (Join-Path (Join-Path '.' 'src-data') 'zenbu')
     Copy-Item -Path $PSItem.FullName -Destination (Join-Path $outGPXDir 'TA-PhotoControls.gpx') -Force
 } 
 
+#endregion
+
+#region TASpecialServices
+
+& $PSScriptRoot\ta-specialservices.ps1 # Sets latitude, longitude if missing
+
+# This file has similar fields to a Zenbu CSV
+Get-ChildItem -Path (Resolve-Path (Join-Path (Join-Path '.' 'src-data') 'ta2020-special-services')) -Filter "*.csv" | ForEach-Object {
+    & $PSScriptRoot\zenbu2garmin.ps1    -src $PSItem.FullName -dst (Join-Path $outGPXDir "$($PSItem.BaseName).gpx")
+}
 #endregion
 
 #region GPSBabel
@@ -48,7 +58,14 @@ Get-ChildItem -Path $outGPXDir | ForEach-Object {
 Copy-Item (Join-Path $PSScriptRoot 'README.MD') $outDir -Verbose -Force
 Copy-Item (Join-Path $PSScriptRoot 'install.ps1') $outDir -Verbose -Force
 
+# Append stats to ReadMe
+
+& $PSScriptRoot\stats.ps1 | Out-File -Append -FilePath (Join-Path $outDir 'README.MD') -Encoding utf8
+
 #endregion
+
+
+
 
 #region Package
 
@@ -62,3 +79,5 @@ Push-Location $outDir
 Pop-Location
 
 #endregion
+
+
